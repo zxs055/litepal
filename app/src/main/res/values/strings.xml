@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LitePal</string>
+    <string name="create_database">创建数据库</string>
+    <string name="insert_table">插入</string>
+    <string name="query_table">查询</string>
+    <string name="update_table">更新</string>\
+    <string name="delete_table">删除</string>
+</resources>
